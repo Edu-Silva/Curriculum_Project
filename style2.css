@@ -1,0 +1,23 @@
+table, th, td {
+	border: 1px solid black;
+}
+
+body {
+	background-color: #b3cccc;
+	border-left-style: solid;
+	border-color: #669999;
+	border-width: 20px;
+	text-align: justify;
+}
+
+div {
+	margin-left: 2px;
+}
+
+nav {
+	background-color: #a3c2c2;
+}
+
+th:hover{
+	background-color: #85adad;
+}

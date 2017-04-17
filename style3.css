@@ -1,0 +1,19 @@
+table {
+	width: 100%;
+}
+
+body {
+	background-color: #b3cccc;
+	text-align: justify;
+}
+
+nav {
+	background-color: #a3c2c2;
+	width: 100%;
+	position: fixed;
+	top: 5px;
+}
+
+th:hover{
+	background-color: #85adad;
+}
